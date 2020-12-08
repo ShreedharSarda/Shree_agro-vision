@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080790745492",
+    "firebase_url": "https://drone-profile.firebaseio.com",
+    "project_id": "drone-profile",
+    "storage_bucket": "drone-profile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080790745492:android:7d19e8ab6dbbd543dd0f81",
+        "android_client_info": {
+          "package_name": "com.example.drone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080790745492-ehicmjmafrefjp43udoseqpdd92f9nh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drone",
+            "certificate_hash": "e44317cbc4c7e878c77e06f337a878837f84030f"
+          }
+        },
+        {
+          "client_id": "1080790745492-3uflnaeckn0ie8burfqlp5ebrshjddsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXv_08aXErocsCptMhBUQtk2l2NoJ48c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080790745492-3uflnaeckn0ie8burfqlp5ebrshjddsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

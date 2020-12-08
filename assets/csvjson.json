@@ -1,0 +1,42 @@
+[
+  {
+    "Fruits": "Apple",
+    "Fruit_diseases": "Apple Scab",
+    "Message": "Spray a mix of sulfur and pyrethrins, Bonide® Orchard Spray. For best results, apply as a protective spray (2.5 oz/ gallon) early in the season."
+  },
+  {
+    "Fruits": "Peach",
+    "Fruit_diseases": "Peach Bacterial Spot",
+    "Message": "Compounds for use include copper, oxytetracycline (Mycoshield and generic equivalents), and syllit+captan"
+  },
+  {
+    "Fruits": "Cotton",
+    "Fruit_diseases": "Cotton Bacterial Blight",
+    "Message": "Spray mixture of Agrimycin-100(0.01%) + Blitox-50(Copper oxychloride) at 0.2%"
+  },
+  {
+    "Fruits": "Potato",
+    "Fruit_diseases": "Healthy",
+    "Message": "This plant is healthy."
+  },
+  {
+    "Fruits": "Cherry",
+    "Fruit_diseases": "Cherry Mildew",
+    "Message": "Stobilurin and Sterol-inhibitor fungicides (ISI) are recommended for use"
+  },
+  {
+    "Fruits": "Grape",
+    "Fruit_diseases": "Grape Blight",
+    "Message": "Lime sulfur, or copper formulations are recommended to kill fungal spores."
+  },
+  {
+    "Fruits": "Apple",
+    "Fruit_diseases": "Apple Black Rot",
+    "Message": "Recommended : Spray Belanty Fungicide"
+  },
+  {
+    "Fruits": "Grape",
+    "Fruit_diseases": "Grape Black Measles",
+    "Message": "Recommended : Lime sulphur sprays"
+  }
+]
